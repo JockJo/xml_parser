@@ -1,0 +1,2 @@
+[2018-07-25 17:24:23] unsupported operand type(s) for +: 'NoneType' and 'str'
+[2018-07-25 17:39:50] [Errno 2] No such file or directory: '/media/jockjo/data/textual_parser/zip//ipg180410.zip'
